@@ -22,7 +22,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For feedback, concerns, or inquiries, please feel free to contact us at [vishnutej001@gmail.com](mailto:vishnutej001@gmail.com).
+For feedback, concerns, or inquiries, please feel free to contact us at [Vishnu](mailto:vishnutej001@gmail.com).
 
 ---
 
